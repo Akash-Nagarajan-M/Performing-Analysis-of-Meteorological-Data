@@ -1,4 +1,8 @@
 # Performing-Analysis-of-Meteorological-Data
+
+The below plots represent the apparent temperature vs humidity for all 12 months. Based on these plots a conclusion is arrived (i.e)There are many ups and downs in the temperature and average humidity has remainded constant throughout 2006 - 2016 . Therefore it can be seen that global warming has caused an effect on temperature changes in these years.
+
+
 ![image](https://user-images.githubusercontent.com/86908101/182367869-d80ad8e1-8834-4961-8376-9bedcc7a1b7d.png)
 ![image](https://user-images.githubusercontent.com/86908101/182367920-a2ff4203-f73d-4473-8260-ffa97290174d.png)
 ![image](https://user-images.githubusercontent.com/86908101/182367950-07882f7e-2afd-41d4-a112-1c8f7d1cdce3.png)
